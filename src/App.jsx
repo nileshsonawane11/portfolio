@@ -12,7 +12,7 @@ import Certifications from "./sections/Certifications";
 import BackgroundEffects from "./components/BackgroundEffects";
 import ScrollProgress from "./components/ScrollProgress";
 import CursorGlow from "./components/CursorGlow";
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 import Footer from "./components/Footer";
 
@@ -62,6 +62,8 @@ export default function App() {
       <Contact />
 
       <Footer />
+
+      <Analytics />
     </main>
   );
 }
