@@ -228,7 +228,7 @@ export default function Hero() {
           lg:justify-start
           text-3xl
           ">
-            <a href="https://github.com/yourusername" target="_blank">
+            <a href="https://github.com/nileshsonawane11" target="_blank">
               <FaGithub />
             </a>
 
