@@ -12,6 +12,7 @@ import Certifications from "./sections/Certifications";
 import BackgroundEffects from "./components/BackgroundEffects";
 import ScrollProgress from "./components/ScrollProgress";
 import CursorGlow from "./components/CursorGlow";
+import { Analytics } from "@vercel/analytics/next"
 
 import Footer from "./components/Footer";
 
