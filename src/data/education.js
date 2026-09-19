@@ -1,10 +1,10 @@
 export default [
     {
         intitute: "Vishwakarma Institute of Technology, Pune",
-        course: "Bachelors of Technology",
+        course: "B.Tech in Computer Engineering (Software Engineering)",
         start_date : "Aug 2026",
         end_date: "Aug 2029",
-        score: "Persuing"
+        // score: "Persuing"
     },
     {
         intitute: "Government Polytechnic, Nashik",
