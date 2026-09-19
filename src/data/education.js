@@ -1,10 +1,10 @@
 export default [
     {
-        intitute: "MVP`s Janta Vidyalaya, Khamkheda",
-        course: "SSC",
-        start_date : "June 2022",
-        end_date: "May 2023",
-        score: "91.20"
+        intitute: "Vishwakarma Institute of Technology, Pune",
+        course: "Bachelors of Technology",
+        start_date : "Aug 2026",
+        end_date: "Aug 2029",
+        score: "Persuing"
     },
     {
         intitute: "Government Polytechnic, Nashik",
@@ -13,4 +13,12 @@ export default [
         end_date: "Aug 2026",
         score: "94.61"
     },
+    {
+        intitute: "MVP`s Janta Vidyalaya, Khamkheda",
+        course: "SSC",
+        start_date : "June 2022",
+        end_date: "May 2023",
+        score: "91.20"
+    },
+    
 ];
